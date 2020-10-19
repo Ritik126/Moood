@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1b1a1c</color>
+    <color name="colorPrimaryDark">#151515</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="white">#fff</color>
+    <color name="lightGrey">#EDEDED</color>
+    <color name="orange">#FFA239</color>
+
+    <color name="seek_bar_background">#f1f1f1</color>
+    <color name="seek_bar_progress">#42e4ee</color>
+    <color name="seek_bar_secondary_progress">#3399CC</color>
+</resources>
